@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Ankylosaurus",
+      "era": "Cretaceous",
+      "diet": "Herbivore",
+      "description": "An armored dinosaur with a massive tail club.",
+      "imageUrl": "/assets/images/ankylosaurus.png",
+      "modelUrl": "/assets/models/ankylosaurus.glb",
+      "soundUrl": "/assets/sounds/ankylosaurus-roar.mp3"
+    },
+    {
+      "id": 2,
+      "name": "T-Rex",
+      "era": "Cretaceous",
+      "diet": "Carnivore",
+      "description": "The Tyrannosaurus Rex was one of the largest carnivorous dinosaurs.",
+      "imageUrl": "/assets/images/t-rex.png",
+      "modelUrl": "/assets/models/t-rex.glb",
+      "soundUrl": "/assets/sounds/t-rex-roar.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Triceratops",
+      "era": "Cretaceous",
+      "diet": "Herbivore",
+      "description": "A large, plant-eating dinosaur with three horns.",
+      "imageUrl": "/assets/images/triceratops.png",
+      "modelUrl": "/assets/models/triceratops.glb",
+      "soundUrl": "/assets/sounds/triceratops-roar.mp3"
+    }
+  ]
+  
