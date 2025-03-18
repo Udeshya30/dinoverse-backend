@@ -24,3 +24,7 @@ const dinosaurRoutes = require("./routes/dinosaurs");
 app.use("/api/dinosaurs", dinosaurRoutes);
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+
+app.get('/ping', (req, res) => {
+    res.json({ message: 'Ping successful!' });
+});
